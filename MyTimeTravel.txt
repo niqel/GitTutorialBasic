@@ -1,0 +1,10 @@
+Nota:
+El primer estado de un archivo en un repositorio Git es U sin seguimiento Untracked
+Al usar el comand git add nombreArchivo se agrega al seguimiento A
+git commit crea el punto commit se agrega al directorio 
+
+La hipnosis
+
+Nuestro personaje principal llamado Alexander llego a su casa despues de un dia largo de trabajo 
+saco todo de sus bolsas del pantalon en la mesa del comedor y se fue directmente a dormir
+
