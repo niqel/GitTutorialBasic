@@ -6,5 +6,12 @@ git commit crea el punto commit se agrega al directorio
 La hipnosis
 
 Nuestro personaje principal llamado Alexander llego a su casa despues de un dia largo de trabajo 
-saco todo de sus bolsas del pantalon en la mesa del comedor y se fue directmente a dormir
+saco todo de sus bolsas del pantalon en la mesa del comedor y se fue directmente a dormir.
+
+Al dia siguiente no encontraba sus llaves y tuvo que salir dejando su casa abierta
+estando en el trabajo trataba de recordar en donde las habia dejado, no logro recordar
+un amigo de el le da la idea de ir con un especialista en hipnosis para que le ayude a a recordar donde 
+dejo las llaves.
+
+al salir del trabajo fue con el especialista y tuvieron una sesion.
 
